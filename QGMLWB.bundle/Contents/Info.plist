@@ -7,11 +7,18 @@
 	<key>CFBundleName</key>
 	<string>QGMLWB</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string></string>
 	<key>KLInfo_QGMLWB</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.qgmlwb.qgmlwb</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_QGMLWB - QWERTY ⌘</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.qgmlwb.qgmlwb-qwerty⌘</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
